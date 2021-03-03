@@ -1,1 +1,1 @@
-# <Denny-Lin.github.io>
+# http://Denny-Lin.github.io
