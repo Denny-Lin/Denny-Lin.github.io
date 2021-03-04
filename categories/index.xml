@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on Denny&#39;s Blog</title>
     <link>Denny-Lin.github.io/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <description>Recent content in Categories on Denny&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Mar 2021 20:53:41 +0800</lastBuildDate><atom:link href="Denny-Lin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 20:53:41 +0800</lastBuildDate><atom:link href="Denny-Lin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First category</title>
       <link>Denny-Lin.github.io/categories/first-category/</link>
-      <pubDate>Wed, 03 Mar 2021 20:53:41 +0800</pubDate>
+      <pubDate>Thu, 04 Mar 2021 20:53:41 +0800</pubDate>
       
       <guid>Denny-Lin.github.io/categories/first-category/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>Second category</title>
       <link>Denny-Lin.github.io/categories/second-category/</link>
-      <pubDate>Wed, 03 Mar 2021 20:53:41 +0800</pubDate>
+      <pubDate>Thu, 04 Mar 2021 20:53:41 +0800</pubDate>
       
       <guid>Denny-Lin.github.io/categories/second-category/</guid>
       <description></description>
